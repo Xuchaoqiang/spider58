@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/city58_spider.iml" filepath="$PROJECT_DIR$/.idea/city58_spider.iml" />
+      <module fileurl="file://G:/luffy课件/第七模块/01-爬虫课件/7.scrapy综合项目/代码/wangyiPro/.idea/wangyiPro.iml" filepath="G:/luffy课件/第七模块/01-爬虫课件/7.scrapy综合项目/代码/wangyiPro/.idea/wangyiPro.iml" />
+    </modules>
+  </component>
+</project>
